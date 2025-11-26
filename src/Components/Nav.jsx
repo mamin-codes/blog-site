@@ -45,10 +45,10 @@ const Nav = () => {
               onClick={closeMenu}
             >
               <div className="w-8 h-8 bg-gradient-to-r from-primary to-secondary rounded-lg flex items-center justify-center">
-                <span className="text-white text-sm font-bold">BB</span>
+                <span className="text-white text-sm font-bold">TB</span>
               </div>
               <span className="text-base-content">
-                Byte<span className="text-primary">Blaze</span>
+                Tech<span className="text-primary">Blog</span>
               </span>
             </NavLink>
           </div>
